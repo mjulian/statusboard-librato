@@ -1,0 +1,4 @@
+time_to_fetch = 1
+refresh_rate = 30
+metric_resolution = 60
+local_timezone = 'America/Los_Angeles'

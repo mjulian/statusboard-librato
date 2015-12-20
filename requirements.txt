@@ -1,0 +1,13 @@
+Flask==0.10.1
+Flask-API==0.6.4
+Jinja2==2.8
+Markdown==2.6.5
+MarkupSafe==0.23
+Werkzeug==0.11.3
+gunicorn==19.4.1
+itsdangerous==0.24
+librato-metrics==0.8.5
+pytoml==0.1.7
+pytz==2015.7
+six==1.10.0
+wsgiref==0.1.2
