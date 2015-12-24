@@ -18,9 +18,8 @@ respective values.
 Usage
 =====
 
-To use, make a request to `/metrics/<metric_name>/<source>`,
-
-where <metric_name> is the name of your metric in Librato and <source> is
+To use, make a request to `/metrics/<metric_name>/<source>`, where
+`<metric_name>` is the name of your metric in Librato and `<source>` is
 the source to use.
 
 
